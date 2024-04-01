@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_test=self.webpackChunkreact_test||[]).push([[426],{7426:(e,t,r)=>{r.r(t),r.d(t,{default:()=>a});var s=r(579);function a(){return(0,s.jsx)("div",{children:"PageIndex"})}}}]);
+//# sourceMappingURL=426.64e1dd1a.chunk.js.map
