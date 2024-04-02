@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/426.64e1dd1a.chunk.js","mappings":"kJAEe,SAASA,IACtB,OACEC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,aAET,C","sources":["views/PageIndex/PageIndex.jsx"],"sourcesContent":["\r\n\r\nexport default function PageIndex() {\r\n  return (\r\n    <div>PageIndex</div>\r\n  )\r\n}\r\n"],"names":["PageIndex","_jsx","children"],"sourceRoot":""}

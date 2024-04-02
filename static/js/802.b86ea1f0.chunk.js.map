@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/802.b86ea1f0.chunk.js","mappings":"kJAEe,SAASA,IACtB,OACEC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,wCAET,C","sources":["views/ButtonPage/ButtonPage.jsx"],"sourcesContent":["\r\n\r\nexport default function ButtonPage() {\r\n  return (\r\n    <div>还在配置中......</div>\r\n  )\r\n}\r\n"],"names":["ButtonPage","_jsx","children"],"sourceRoot":""}

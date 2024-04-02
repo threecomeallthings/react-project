@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/427.12b9e1fb.chunk.js","mappings":"kJAEe,SAASA,IACtB,OACEC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,8CAET,C","sources":["views/IconPage/IconPage.jsx"],"sourcesContent":["\r\n\r\nexport default function IconPage() {\r\n  return (\r\n    <div>也还在配置中......</div>\r\n  )\r\n}\r\n"],"names":["IconPage","_jsx","children"],"sourceRoot":""}
